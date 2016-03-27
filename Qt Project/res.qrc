@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BackMainWindow.jpg</file>
+        <file>logo_spectr.png</file>
+        <file>Danger.png</file>
+        <file>../Images/Green.png</file>
+        <file>../Images/Orange.png</file>
+        <file>../Images/Red.png</file>
+    </qresource>
+</RCC>
